@@ -28,12 +28,17 @@ ESPFlashDownloadTool Set up
 
 Putty Download
 --------------
-* [putty download for baidu](https://www.baidu.com/link?url=m--01AOlqt-g2oO4pigp7UuW9ltaEmJUBTS671OC3usdnpJ6zh15sDtBf8HjZBKHpBS52N-juQBHKwJPoqd1UbjL7UgMQTmxIFxgUMQwJfS&wd=&eqid=afb9e2f70003c8b8000000065ab24030)
+* [Putty Download For Baidu](https://www.baidu.com/link?url=m--01AOlqt-g2oO4pigp7UuW9ltaEmJUBTS671OC3usdnpJ6zh15sDtBf8HjZBKHpBS52N-juQBHKwJPoqd1UbjL7UgMQTmxIFxgUMQwJfS&wd=&eqid=afb9e2f70003c8b8000000065ab24030)
 
-* [Putty Official website](https://www.putty.org/)
+* [Putty Official Website](https://www.putty.org/)
 
 ![image](https://github.com/LilyGO/MicroPython-ESP32/blob/master/image/Screenshot_6.png)
 
 Successful Operation
 --------------------
+
+    #import os
+    #os.listdir()
+
 ![image](https://github.com/LilyGO/MicroPython-ESP32/blob/master/image/Screenshot_5.png)
+
