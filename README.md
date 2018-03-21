@@ -1,6 +1,6 @@
 # MicroPython-ESP32
 
-![image](https://github.com/LilyGO/MicroPython-ESP32/blob/master/image/Micropython-logo.svg.png)
+![image](https://github.com/LilyGO/MicroPython-ESP32/blob/master/image/Micropython-logo.png)
 
 Flashing Micropython Firmware to ESP32 Board
 -----------------------------------------------
